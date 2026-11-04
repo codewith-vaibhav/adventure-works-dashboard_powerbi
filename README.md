@@ -4,7 +4,7 @@ A single-page, dark-themed Power BI dashboard that tracks sales performance for 
 
 ## Dashboard Preview
 
-![Adventure Works Sales Analytics Dashboard](dashboard-cover\adventure-dashboard.png)
+![Adventure Works Sales Analytics Dashboard](/dashboard-cover/adventure-dashboard.png)
 
 ## Objectives
 - Track sales, cost, margin, orders and customers at a glance
